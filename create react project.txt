@@ -1,0 +1,14 @@
+npm create vite@latest
+
+
+nop install: para instalar todas las dependencias
+
+
+npm run dev: para correr el proyecto
+
+
+npm install styled-components: istalar componentes para estilos de la page
+
+
+
+npm i react-router: trabajar con rutas router
